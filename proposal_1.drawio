@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.4">
   <diagram name="第 1 页" id="Q1EDSlrUifdkQEMgT1K_">
-    <mxGraphModel dx="997" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="axpyoWHzAW82FKdTIzgD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="110" width="450" x="40" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="axpyoWHzAW82FKdTIzgD-15" edge="1" parent="1" source="axpyoWHzAW82FKdTIzgD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.011;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" target="axpyoWHzAW82FKdTIzgD-12">
+        <mxCell id="axpyoWHzAW82FKdTIzgD-15" edge="1" parent="1" source="axpyoWHzAW82FKdTIzgD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.006;exitY=0.42;exitDx=0;exitDy=0;exitPerimeter=0;" target="axpyoWHzAW82FKdTIzgD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="229" />
-              <mxPoint x="600" y="350" />
+              <mxPoint x="580" y="230" />
+              <mxPoint x="580" y="350" />
               <mxPoint x="105" y="350" />
             </Array>
           </mxGeometry>
@@ -40,7 +40,7 @@
         <mxCell id="axpyoWHzAW82FKdTIzgD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="non-absorbing, co-occur events" vertex="1">
           <mxGeometry height="60" width="190" x="180" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="axpyoWHzAW82FKdTIzgD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Head A:&lt;/div&gt;softmax competing" vertex="1">
+        <mxCell id="axpyoWHzAW82FKdTIzgD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Head A:&lt;/div&gt;competing hazards" vertex="1">
           <mxGeometry height="40" width="120" x="430" y="200" as="geometry" />
         </mxCell>
         <mxCell id="axpyoWHzAW82FKdTIzgD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Head B:&lt;/div&gt;multi-label events" vertex="1">
